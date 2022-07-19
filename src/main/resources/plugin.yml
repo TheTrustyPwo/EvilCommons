@@ -1,0 +1,6 @@
+name: Commons
+version: '${version}'
+main: net.evilkingdom.commons.Commons
+api-version: 1.19
+authors: [ TheTrustyPwo ]
+description: Commons for Evil Kingdom
